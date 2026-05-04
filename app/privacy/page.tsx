@@ -49,6 +49,10 @@ export default function PrivacyPage() {
           <li>You can delete your content at any time</li>
           <li>You can request account deletion</li>
         </ul>
+        <p>
+          To request deletion of your account and associated data, email us at hello@sunvantage.app with your registered
+          email address.
+        </p>
 
         <h3>Updates</h3>
         <p>We may update this policy as the app evolves.</p>
