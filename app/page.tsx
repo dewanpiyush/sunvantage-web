@@ -22,8 +22,11 @@ export default function Page() {
         <a href="/privacy" style={{ marginRight: "12px", color: "white" }}>
           Privacy
         </a>
-        <a href="/terms" style={{ color: "white" }}>
+        <a href="/terms" style={{ marginRight: "12px", color: "white" }}>
           Terms
+        </a>
+        <a href="/delete-account" style={{ color: "white" }}>
+          Delete account
         </a>
       </div>
     </main>
